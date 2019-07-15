@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ALC4 Phase1</string>
+    <string name="about_activity">About ALC</string>
+    <string name="profile_activity">My Profile</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_string">Welcome to ALC 4.0</string>
+    <string name="about_string">ABOUT ALC</string>
+    <string name="profile_text">MY PROFILE</string>
+    <string name="track_string">Track:Android</string>
+    <string name="country_string">Country:Kenya</string>
+    <string name="email_string">Email:estherwaweru86@gmail.com</string>
+    <string name="phone_string">Phone Number:0799363452</string>
+    <string name="username">Slack Username:estherwaweru86</string>
+</resources>
